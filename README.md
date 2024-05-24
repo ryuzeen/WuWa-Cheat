@@ -34,3 +34,6 @@
 #### Creditos:
 - Z4ee 
 - Ryuzeen (PT/BR)
+
+#### Correções:
+- Se tiver desatualizado, você pode encontrar uma nova versão [aqui](https://github.com/Z4ee/Pipsi-WW-Releases/releases)
