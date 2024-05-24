@@ -31,6 +31,6 @@
 - Carregar Configuração
 - Salvar Configuração
 
-- Creditos:
+#### Creditos:
 - Z4ee 
 - Ryuzeen (PT/BR)
