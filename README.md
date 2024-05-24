@@ -8,7 +8,7 @@
 
 1. Baixe a última versão.
 2. Execute `Launcher.exe`.
-3. Selecione `Client-Win64-Shipping.exe`.
+3. Selecione `Client-Win64-Shipping.exe`. (C:\Program Files\Games\Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64)
 4. Após abrir o jogo, pressione `INSERT` para abrir a interface gráfica.
 
 <h1 align="center">Recursos</h1>
