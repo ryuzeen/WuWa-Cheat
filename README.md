@@ -30,3 +30,7 @@
 - Desbloqueador de FPS
 - Carregar Configuração
 - Salvar Configuração
+
+- Creditos:
+- Z4ee 
+- Ryuzeen (PT/BR)
