@@ -30,6 +30,7 @@
 - Desbloqueador de FPS
 - Carregar Configuração
 - Salvar Configuração
+- Dica > Fast Dialogue: Bindar o Game Speed em uma tecla e ativar durante dialogos ;)
 
 #### Creditos:
 - Z4ee 
