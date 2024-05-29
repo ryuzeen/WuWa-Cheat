@@ -32,6 +32,10 @@
 - Salvar Configuração
 - Dica > Fast Dialogue: Bindar o Game Speed em uma tecla e ativar durante dialogos ;)
 
+### Scam
+
+- Não confiar em sites como DFG, MINDWARE. (Os mesmos **VENDEM** a versão **GRATIS** do meu cheat)
+
 #### Creditos:
 - Z4ee 
 - Ryuzeen (PT/BR)
